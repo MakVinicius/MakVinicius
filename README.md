@@ -25,13 +25,13 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/makvinicius"><img width="20%" alt="coding" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/makvinicius"><img width="15%" alt="coding" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br>
 
 <div align="center">
-    <img width="40%" height="40%" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NobmlzNWc0bjNwM3E0MDZzOGoxM2t5b2k3NHo5cWN1OTV5aW03ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+    <img width="30%" height="30%" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NobmlzNWc0bjNwM3E0MDZzOGoxM2t5b2k3NHo5cWN1OTV5aW03ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 </div>
 
 <br />
@@ -77,7 +77,8 @@
 
 <h1 align="center">DATABASES</h1>
 <div align="center">
-    <img width="40" height="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="40" height="40" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img width="40" height="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="60" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="60" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="60" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
+
