@@ -55,30 +55,3 @@
     <img width="40" height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
     <img width="40" height="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 </div>
-
-<br>
-
-<h1 align="center">FRONTEND</h1>
-<div align="center">
-    <img width="40" height="40" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-    <img width="40" height="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-</div>
-
-<br>
-
-<h1 align="center">BACKEND</h1>
-<div align="center">
-    <img width="40" height="40" alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img width="40" height="40" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-</div>
-
-<br>
-
-<h1 align="center">DATABASES</h1>
-<div align="center">
-    <img width="60" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="60" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img width="60" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
-
