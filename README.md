@@ -39,7 +39,7 @@
 <br />
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MakVinicius&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=transparent" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MakVinicius&show_icons=true&count_private=true&layout=compact&theme=transparent" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakVinicius&layout=compact&theme=transparent" />
 </div>
 
